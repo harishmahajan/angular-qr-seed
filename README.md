@@ -18,3 +18,5 @@ npm start
 ```
 
 Now browse to the app at `localhost:8000`.
+=======
+# angular-qr-seed
